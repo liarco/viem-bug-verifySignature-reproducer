@@ -1,0 +1,16 @@
+{
+  "name": "viem-bug-verifysignature-reproducer",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "author": "Marco Lipparini <developer@liarco.net>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "tsx": "^3.12.8",
+    "typescript": "^5.2.2",
+    "viem": "^1.10.4"
+  },
+  "scripts": {
+    "start": "tsx index.ts"
+  }
+}
